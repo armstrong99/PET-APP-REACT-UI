@@ -1,0 +1,11 @@
+#btnAlChan {
+    background: #1dc7ea;
+    border: none;
+    outline: none;
+    padding: .5rem;
+    width: 10rem;
+    color: white;
+    text-align: center;
+    font-weight: 800;
+    border-radius: .3rem;
+}
